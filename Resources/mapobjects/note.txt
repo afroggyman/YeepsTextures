@@ -1,0 +1,1 @@
+every single texture in this folder was in its own sepreat folder unlike the others so for sake fo ease of navigation its jsut one folder
